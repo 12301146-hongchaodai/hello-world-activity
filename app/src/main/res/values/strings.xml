@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple App</string>
+    <string name="hello_world">Hello Brian!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity2">Activity 2</string>
+    <string name="buttonText">Make it so</string>
+
+</resources>
